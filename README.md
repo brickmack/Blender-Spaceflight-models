@@ -1,2 +1,1 @@
-# International-Space-Station
-ISS for Blender
+# Blender-Spaceflight-Models
