@@ -1,3 +1,3 @@
 # Blender-Spaceflight-Models
 
-Note: This has not been updated since may 2017. Github turned out to not really be suitable because of limited storage space. If anyone is interested in getting the updated versions of these, email me instead
+Note: This has not been updated since may 2017. Current versions of these models are available at https://www.cgtrader.com/designers/brickmack or https://www.turbosquid.com/Search/Artists/brickmack
